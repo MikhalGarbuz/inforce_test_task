@@ -1,0 +1,5 @@
+pytest
+faker
+email-validator
+psycopg2
+python-dotenv
